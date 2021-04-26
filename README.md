@@ -1,2 +1,2 @@
-# Advanced_Computer_Algorithms
+# Advanced-Computer-Algorithms
 NCTU "Advanced Computer Algorithms"
